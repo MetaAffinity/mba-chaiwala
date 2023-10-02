@@ -61,6 +61,7 @@ const linksbacktoNormal =()=>{
         <h5>Email</h5>
         <a href="mailto:info@site.com">info@site.com</a>
         <a href="mailto:info@site.com">franchise@site.com</a>
+        <h5>For More Projects : metaaffinity.net</h5>
     </div>
     <div>
         <h5>phone</h5>
