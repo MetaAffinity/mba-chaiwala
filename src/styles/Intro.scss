@@ -1,5 +1,6 @@
 .intro{
     height: calc(100vh - 50px);
+    background-color: black;
 
     video {
         width: 100%;
@@ -11,4 +12,7 @@
         position: absolute;
         top: 0%;
     }
+}
+.video-background{
+    background-color: rgb(243, 223, 37);
 }

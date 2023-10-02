@@ -4,7 +4,7 @@ const IntroVideo = () => {
   return (
     <div className='intro'>
 
-    <video src={video} muted autoPlay loop controlsList='nodownload'></video>
+    <video className="video-background" src={video} muted autoPlay loop controlsList='nodownload'></video>
     <div></div>
 
     </div>
